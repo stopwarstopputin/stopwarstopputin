@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @stopwarstopputin
-- 👀 I’m interested in peace and stopping the war!
-- 🌱 I’m currently learning that we need to act and exercise everyone's power to make real and meaningful change in the world!
-- 💞️ I’m looking to collaborate on stopping war with the help of the WordPress community and bloggers.
-- 📫 How to reach me? Just here on Github!
+- 👋 Hi, we are @stopwarstopputin
+- 👀 We are WordPress Developers trying to achieve peace and stop the war!
+- 🌱 We are currently learning that we need to act and exercise everyone's power to make real and meaningful change in Russia & Belarus!
+- 💞️ We are looking to collaborate on stopping war with the help of the WordPress Community and Bloggers.
+- 📫 How to reach us? Here on Github or WordPress.org!
 
 <!---
 stopwarstopputin/stopwarstopputin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
